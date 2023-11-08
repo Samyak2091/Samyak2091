@@ -17,6 +17,9 @@
 
 📄 Know about my experience: [My Resume](https://drive.google.com/file/d/1cVHJvUAYUjSQk-_b04mF6LUDctudUC24/view)
 
+<img src="https://i.pinimg.com/originals/45/67/a8/4567a837b545d22b9dcde81ccd98b70e.gif" alt="My Animated GIF" width="450" height="200">
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_i_am_the_sam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samyak Gaykwad) 
 
@@ -24,6 +27,7 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![image](https://github.com/Samyak2091/Samyak2091/assets/142721976/a74886dc-2813-4096-b233-657cd8cf7834) ![image](https://github.com/Samyak2091/Samyak2091/assets/142721976/2d874221-b5a8-4ebf-8e72-7ae5d9d0dfa4)
+
 
 
 
