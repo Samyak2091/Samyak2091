@@ -50,5 +50,6 @@
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Samyak2091&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=Samyak2091&icon=4&color=1)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Samyak2091&label=Profile%20Views&color=1&icon=0&pretty=false" />
+</a>
